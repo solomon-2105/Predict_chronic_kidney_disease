@@ -51,9 +51,6 @@ Contributions to improve the model's performance or enhance the application's fe
 
 This application is intended for educational and informational purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Consult a qualified healthcare provider for any medical concerns.
 
-**Author:**
-
-[Mohammed Haseebuddin / adnaanhaseeb555@gmail.com]
 
 ---
 This README provides a brief overview of the Chronic Kidney Disease Prediction project, its features, usage instructions, model details, and other relevant information. Feel free to customize it further based on your project's specific requirements and preferences.
